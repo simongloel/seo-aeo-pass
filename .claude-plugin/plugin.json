@@ -1,0 +1,12 @@
+{
+  "name": "seo-aeo-pass",
+  "displayName": "SEO + AEO pass",
+  "version": "1.0.0",
+  "description": "SEO and AI-answer visibility from free first-party data: Search Console, analytics, live results, autocomplete. Picks keywords by buyer value, audits the site, plans and drafts pages. Optional multi-agent workflow.",
+  "author": { "name": "Simon Gloel", "url": "https://simongloel.de" },
+  "homepage": "https://github.com/simongloel/seo-aeo-pass",
+  "repository": "https://github.com/simongloel/seo-aeo-pass",
+  "license": "MIT",
+  "keywords": ["seo", "aeo", "geo", "ai-search", "keyword-research", "google-search-console", "technical-seo", "ai-overviews", "llm-visibility"],
+  "workflows": "./skills/seo-aeo-pass/workflows"
+}

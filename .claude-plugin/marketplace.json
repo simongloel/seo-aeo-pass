@@ -1,0 +1,15 @@
+{
+  "name": "simongloel-seo-aeo-pass",
+  "description": "SEO and AI-answer visibility skill with a multi-agent workflow.",
+  "owner": {
+    "name": "Simon Gloel",
+    "url": "https://github.com/simongloel"
+  },
+  "plugins": [
+    {
+      "name": "seo-aeo-pass",
+      "source": "./",
+      "description": "SEO and AI-answer visibility from free first-party data, with an optional multi-agent workflow."
+    }
+  ]
+}
